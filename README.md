@@ -1,15 +1,18 @@
-# QuadrantSwipe
+# Acuity Keyboard
 
-Status:
-- Keyboard activity fully functional
-- Keyboard service now fully functional
-- Keyboard service registers gestures and successfully sends input back to OS.
+Welcome to Acuity Keyboard. In order to use this application on an Android Device, please follow these instructions.
 
-To do:
-- App lifecycle - onPause(), onResume(), onDestroy() etc. 
-  - particularly when you close the keyboard for one app and it keeps the data for the other app
-- Vibrate/flash feedback on swipe
-- UI revamp. Buttons look kinda ugh
+####To enable the Keyboard navigate to
+1. Settings
+2. Language & Input
+3. Current Keyboard
+4. Choose Keyboards
+5. Toggle Acuity Keyboard to the ON position
 
-Possibly:
-- Moving cursor around
+####To select the keyboard navigate to
+1. Settings
+2. Language & Input
+3. Current Keyboard
+4. Acuity Keyboard
+
+Alternatively, whenever the keyboard appears, touch the minature keyboard button in the far bottom right of your screen
