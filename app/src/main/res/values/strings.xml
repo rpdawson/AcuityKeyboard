@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuadrantSwipe</string>
+    <string name ="menu_tl">Z + C\n+ - +\nQ + B</string>
+    <string name ="menu_tr">D | U\n-   -\nH | L</string>
+    <string name ="menu_br">q + w\n+ - +\ny + d</string>
+    <string name ="menu_bl">T | N\n-   -\nS | R</string>
+</resources>

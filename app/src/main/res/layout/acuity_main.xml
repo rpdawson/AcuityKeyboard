@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B3E5FC"
+    android:weightSum="1">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:background="@drawable/text_back"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:hint="Try me!"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_weight="0.25" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Welcome to Acuity Keyboard! \n\nDon&apos;t forget to enable Acuity in your settings, and make sure to test it out in your other applications too. Enjoy!"
+        android:id="@+id/textView"
+        android:paddingLeft="16dp"
+        android:paddingRight="8dp"
+        android:layout_weight=".65" />
+
+</LinearLayout>
